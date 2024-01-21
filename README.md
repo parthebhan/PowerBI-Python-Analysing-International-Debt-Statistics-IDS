@@ -1,8 +1,9 @@
 # Project Title: Analyze International Debt Statistics
 Technologies: Business Intelligence
+
 Domain:Finance
 
-Problem Statement:
+## Problem Statement:
 
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
 
@@ -16,7 +17,7 @@ Finding the answers to questions like:
    
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2030.
 
-Project Tasks
+## Project Tasks
 1. The World Bank's international debt data
 2. Finding the number of distinct countries
 3. Finding out the distinct debt indicators
@@ -28,7 +29,7 @@ Project Tasks
 9. India's debt issues and conclusion
 
 
-Tools and Technologies
+## Tools and Technologies
 
 To facilitate effective data analysis and visualization, the following tools and technologies will be employed: 
 
