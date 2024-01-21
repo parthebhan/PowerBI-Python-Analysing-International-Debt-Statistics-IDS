@@ -1,7 +1,9 @@
 # Analysing-International-Debt-Statistics-IDS-
 
 Project Title: Analyze International Debt Statistics
+
 Technologies: Business Intelligence
+
 Domain:Finance
 
 Problem Statement:
