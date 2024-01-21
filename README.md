@@ -36,7 +36,7 @@ To facilitate effective data analysis and visualization, the following tools and
 •	Python: 
 
     o	Utilized Python programming language for data analysis tasks.    
-    o	Leveraged Jupyter Notebooks along with libraries such as Pandas and NumPy.
+    o	Leveraged Jupyter Notebooks along with libraries such as Pandas and Ploty-Express.
     
 •	Power BI: 
 
