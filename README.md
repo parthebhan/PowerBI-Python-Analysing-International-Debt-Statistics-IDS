@@ -27,7 +27,7 @@ Project Tasks
 6. Average amount of debt across indicators
 7. The highest amount of principal repayments
 8. The most common debt indicator
-9. Other viable debt issues and conclusion
+9. India's debt issues and conclusion
 
 
 Tools and Technologies
