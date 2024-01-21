@@ -47,5 +47,5 @@ To facilitate effective data analysis and visualization, the following tools and
     o	Developed interactive dashboards to represent key findings visually.
     
    International Debt Statistics (IDS) Dashboard
-   [International Debt Statistics (IDS) Dashboard]([docs/CONTRIBUTING.md](https://app.powerbi.com/reportEmbed?reportId=b5483008-9f32-4d4e-ad30-6b8753ed078c&autoAuth=true&ctid=9f279a9a-e327-4c5c-9ca3-e4747dd231b1 )
+   [International Debt Statistics (IDS) Dashboard](https://app.powerbi.com/reportEmbed?reportId=b5483008-9f32-4d4e-ad30-6b8753ed078c&autoAuth=true&ctid=9f279a9a-e327-4c5c-9ca3-e4747dd231b1)
      
