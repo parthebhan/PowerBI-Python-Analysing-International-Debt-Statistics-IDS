@@ -30,15 +30,22 @@ Project Tasks
 9. Other viable debt issues and conclusion
 
 Data Collection
+
 The data collection process involves obtaining The World Bank's international debt dataset. The dataset spans from 1970 to 2030 and includes both national and regional debt statistics for various countries. The data is acquired from the provided link and is essential for conducting a comprehensive analysis of international debt.
 
 Tools and Technologies
+
 To facilitate effective data analysis and visualization, the following tools and technologies will be employed: 
 
 •	Python: 
+
     o	Utilize Python programming language for data analysis tasks.
+    
     o	Leverage Jupyter Notebooks along with libraries such as Pandas and NumPy.
+    
 •	Power BI: 
+
     o	Import cleaned and analysed data into Power BI for visualization.
+    
     o	Develop interactive dashboards to represent key findings visually. 
      
